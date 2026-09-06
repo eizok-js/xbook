@@ -1,0 +1,17 @@
+# データベース・ログ（個人データを含むため公開しない）
+data/
+
+# Pythonのキャッシュ
+__pycache__/
+*.pyc
+
+# 環境変数ファイル（APIキー等を含む可能性があるため）
+.env
+
+# OS固有ファイル
+.DS_Store
+Thumbs.db
+
+# エディタ設定
+.vscode/
+.idea/
